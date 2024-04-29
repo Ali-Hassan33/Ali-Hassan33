@@ -21,11 +21,13 @@
 
  ---
 
- <div class='container'>
+<div class='container'>
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats-khaki-phi-26.vercel.app/api?username=Ali-Hassan33&theme=dark&show_icons=true" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats-khaki-phi-26.vercel.app/api/top-langs/?username=Ali-Hassan33&layout=compact&theme=dark" /></div>
 </div>
-  
+ 
+---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ali-Hassan33&theme=dark)](https://git.io/streak-stats)
