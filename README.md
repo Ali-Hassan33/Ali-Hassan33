@@ -19,6 +19,6 @@
 
  ---
 
- [![Anurag's GitHub stats](https://github-readme-stats-nine-gilt-42.vercel.app/api?username=Ali-Hassan33)](https://github.com/anuraghazra/github-readme-stats)
+ [![Ali-Hassan's GitHub stats](https://github-readme-stats-nine-gilt-42.vercel.app/api?username=Ali-Hassan33)](https://github.com/Ali-Hassan33/github-readme-stats)
   
 
