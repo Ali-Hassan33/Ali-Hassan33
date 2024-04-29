@@ -20,6 +20,11 @@
 
  ---
 
- [![Ali-Hassan's GitHub stats](https://github-readme-stats-khaki-phi-26.vercel.app/api?username=Ali-Hassan33&theme=dark&show_icons=true)](https://github.com/Ali-Hassan33/github-readme-stats)
+ <div class='container'>
+<img style="height: auto; width: 44%;" class="img" src="https://github-readme-stats-khaki-phi-26.vercel.app/api?username=Ali-Hassan33&theme=dark&show_icons=true" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 33%;" class="img" src="https://github-readme-stats-khaki-phi-26.vercel.app/api/top-langs/?username=Ali-Hassan33&layout=compact&theme=dark" /></div>
+</div>
   
 
