@@ -19,6 +19,6 @@
 
  ---
 
- [![Ali-Hassan's GitHub stats](https://github-readme-stats-khaki-phi-26.vercel.app/api?username=Ali-Hassan33)](https://github.com/Ali-Hassan33/github-readme-stats)
+ [![Ali-Hassan's GitHub stats](https://github-readme-stats-khaki-phi-26.vercel.app/api?username=Ali-Hassan33&theme=dark&show_icons=true)](https://github.com/Ali-Hassan33/github-readme-stats)
   
 
