@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2200&pause=1300&color=31AAE0&center=true&random=false&width=435&lines=Hello!+I'm+Ali+Hassan." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=4C8AF7&random=false&width=435&lines=Hello!+I'm+Ali+Hassan." alt="Typing SVG" /></a>
 <h3 align = "center">A Passionate Java Developer</h3>
 
 ---
