@@ -16,5 +16,9 @@
  <a href="https://vaadin.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1171922?s=200&v=4" alt="postman" width="40" height="40"/>
  </p>
  </div>
+
+ ---
+
+ [![Anurag's GitHub stats](https://github-readme-stats-nine-gilt-42.vercel.app/api?username=Ali-Hassan33)](https://github.com/anuraghazra/github-readme-stats)
   
 
