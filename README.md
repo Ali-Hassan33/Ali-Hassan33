@@ -5,7 +5,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="45"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/> </a>
@@ -27,7 +27,9 @@
 &nbsp;
 <img style="height: auto; width: 38%;" class="img" src="https://github-readme-stats-khaki-phi-26.vercel.app/api/top-langs/?username=Ali-Hassan33&layout=compact&theme=dark" /></div>
 </div>
- 
----
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ali-Hassan33&theme=dark)](https://git.io/streak-stats)
+<br>
+
+<div align = "center">
+ <img src = "https://streak-stats.demolab.com/?user=Ali-Hassan33&theme=dark">
+</div>
