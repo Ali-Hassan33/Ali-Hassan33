@@ -3,6 +3,10 @@
 
 ---
 
+- 📨 How to reach me **se.ali.hassan01@gmail.com**
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <p align="center"> 
