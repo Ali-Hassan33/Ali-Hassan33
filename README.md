@@ -29,9 +29,9 @@
  ---
 
 <div class='container'>
-<img style="height: auto;" class="img" src="https://github-readme-stats-8pc9.vercel.app/api?username=Ali-Hassan33&theme=dark&show_icons=true" />
+<img style="height: auto; width: 44%;" class="img" src="https://github-readme-stats-8pc9.vercel.app/api?username=Ali-Hassan33&theme=dark&show_icons=true" />
 &nbsp;
 &nbsp;
-<img style="height: auto;" src = "https://streak-stats.demolab.com/?user=Ali-Hassan33&theme=dark">
+<img style="height: auto; width: 47%;" src = "https://streak-stats.demolab.com/?user=Ali-Hassan33&theme=dark">
 </div>
 <br>
