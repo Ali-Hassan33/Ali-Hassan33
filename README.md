@@ -1,8 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&duration=2500&pause=1000&width=435&lines=Hello!+I'm+Ali+Hassan." alt="Typing SVG" /></a>
-<h3 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=2000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Full+Stack+Java+Developer+" alt="Typing SVG" /></a></h3>
-
+<h4 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=2000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Full+Stack+Java+Developer+" alt="Typing SVG" /></a></h4>
 ---
-
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <p align="center"> 
