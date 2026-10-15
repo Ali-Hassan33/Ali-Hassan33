@@ -1,31 +1,81 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=25&duration=2500&pause=1000&width=435&lines=Hello!+I'm+Ali+Hassan." alt="Typing SVG" /></a>
-<h4 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=2000&pause=1000&color=F7F7F7&center=true&repeat=false&width=435&lines=Full+Stack+Java+Developer+" alt="Typing SVG" /></a></h4>
+<h1 align="center">Hey, I'm Ali Hassan 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Kotlin;Building+products+that+actually+matter" alt="Typing SVG" />
+  </a>
+</p>
+
+### About me
+
+Backend engineer who likes turning ideas into real, working products. I mostly build with **Java**, **Kotlin** and **Spring Boot**.
+
+- **Focus:** Scalable services and clean backend design
+- **Security:** secure authentication and authorization, OAuth, MFA and passwordless login
+- **AI:** building LLM-powered features with Spring AI
+- **Data:** relational databases, ORM and schema management
+- **Payments:** payment and subscription integrations
+- **Cloud:** deploying and running services in the cloud
+- **Quality:** unit and integration testing
+- **Exploring:** new Spring AI and Spring Security features
 
 ---
-<div>
-<p align="center"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="45"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/> </a>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/junit-team/junit5/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg" alt="unit" width="35" height="40"/> </a> 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="javascript" width="38" height="40"/> </a>
-<a href="https://vaadin.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1171922?s=200&v=4" alt="vaadin" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="47"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="47"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 
- </p>
- </div>
+### Tech stack
 
- ---
+**Backend**
 
-<div class='container'>
-<img style="height: auto; width: 44%;" class="img" src="https://github-readme-stats-8pc9.vercel.app/api?username=Ali-Hassan33&theme=dark&show_icons=true" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 47%;" src = "https://streak-stats.demolab.com/?user=Ali-Hassan33&theme=dark">
-</div>
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle,maven" alt="backend" />
+</p>
+
+**Data and infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,rabbitmq,docker,aws,githubactions,nginx,linux" alt="data and infra" />
+</p>
+
+**Frontend and tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,git,idea" alt="frontend and tools" />
+</p>
+
+**Spring ecosystem and more**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+ <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Testcontainers-9B1FD1?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white" alt="Vaadin" />
+</p>
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-8pc9.vercel.app/api?username=Ali-Hassan33&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-8pc9.vercel.app/api/top-langs/?username=Ali-Hassan33&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ali-Hassan33&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+### 🤝 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
