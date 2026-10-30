@@ -8,16 +8,8 @@
 
 ### About me
 
-Backend engineer who likes turning ideas into real, working products. I mostly build with **Java**, **Kotlin** and **Spring Boot**.
-
-- **Focus:** Scalable services and clean backend design
-- **Security:** secure authentication and authorization, OAuth, MFA and passwordless login
-- **AI:** building LLM-powered features with Spring AI
-- **Data:** relational databases, ORM and schema management
-- **Payments:** payment and subscription integrations
-- **Cloud:** deploying and running services in the cloud
-- **Quality:** unit and integration testing
-- **Exploring:** new Spring AI and Spring Security features
+Java & Spring Boot engineer · System designer · Open source contributor
+Currently building AI-powered products
 
 ---
 
