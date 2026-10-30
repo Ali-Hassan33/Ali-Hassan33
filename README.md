@@ -9,6 +9,8 @@
 ### About me
 
 Java & Spring Boot engineer · System designer · Open source contributor
+<br />
+<br />
 Currently building AI-powered products
 
 ---
