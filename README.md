@@ -1,17 +1,16 @@
-<h1 align="center">Hey, I'm Ali Hassan 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Kotlin;Building+products+that+actually+matter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ali+Hassan+builds+products+that+matter." alt="Typing SVG" />
   </a>
 </p>
 
-### About me
-
-Java & Spring Boot engineer · System designer · Open source contributor
-<br />
-<br />
-Currently building AI-powered products
+<p align="center">
+  Java & Spring Boot Engineer · System Designer · Open Source Contributor
+  <br />
+  <br />
+  Currently building AI-powered products
+</p>
 
 ---
 
@@ -20,19 +19,19 @@ Currently building AI-powered products
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle,maven" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,gradle,maven,prometheus,grafana" alt="backend" />
 </p>
 
 **Data and infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,rabbitmq,docker,aws,githubactions,nginx,linux" alt="data and infra" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka,rabbitmq,docker,aws,azure,githubactions,nginx,linux" alt="data and infra" />
 </p>
 
 **Frontend and tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,git,idea" alt="frontend and tools" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" alt="frontend and tools" />
 </p>
 
 **Spring ecosystem and more**
